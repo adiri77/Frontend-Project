@@ -176,7 +176,7 @@ const TeamComponent = () => {
         <div className="text-overlay">Small But Mighty</div>
       </HeroSection>
       <TeamSection theme={theme}>
-        <h2>The team</h2>
+        <h2>The Team</h2>
         <p>
           Meet the 26 of us building and supporting LogicTech every day. We're headquartered in the Uttarpradesh
           district of India, but our team is spread across the world.
